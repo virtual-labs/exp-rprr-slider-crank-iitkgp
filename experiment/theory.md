@@ -3,6 +3,8 @@ The 4 bar RRRP mechanism (and its inversions - RRPR or RPRR) is another basic me
 
 $\overline{aaa}$
 $$\overline{aaa}$$
+\(\overline{aa}\)
+\(\mathrm{AA}\)
 
 
 
