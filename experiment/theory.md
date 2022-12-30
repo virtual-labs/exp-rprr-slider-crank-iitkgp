@@ -11,7 +11,7 @@ $$ \overline{aaa} $$
 $$\bar{XY}$$
 $$ \bar{XY} $$
 
-
+<span style="text-decoration:overline">XY</span>
 
 
 <div align="center">
