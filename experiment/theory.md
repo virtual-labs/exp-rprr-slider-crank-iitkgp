@@ -38,4 +38,3 @@ For a more detailed introduction to Grashof criteria for linkages with one prism
 - The - and + ***(or Shift + =)*** keys may be used for zooming out and zooming in.
 - Pressing the = key will get the view back to default.
 
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
